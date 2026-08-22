@@ -18,7 +18,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Estado-En_Desarrollo-2ea44f?style=for-the-badge&logo=github" alt="Estado">
-  <img src="https://img.shields.io/badge/Metodología-Design_Thinking-007ACC?style=for-the-badge" alt="Metodología">
+  <img src="https://img.shields.io/badge/Metodología-Proceso_de_Innovación-007ACC?style=for-the-badge" alt="Metodología">
   <img src="https://img.shields.io/badge/ODS-9_%7C_13_%7C_12-4C9F38?style=for-the-badge" alt="ODS">
 </p>
 ---
