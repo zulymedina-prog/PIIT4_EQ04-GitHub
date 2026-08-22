@@ -131,9 +131,27 @@ Utilizamos diferentes herramientas para organizar, desarrollar y gestionar nuest
 ## ✨ Colaboradores
 
 <p align="center">
-  <a href="https://github.com/zulymedina-prog/PIIT4_EQ04-GitHub/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=zulymedina-prog/PIIT4_EQ04-GitHub" alt="Colaboradores del Equipo 04" />
+
+  <a href="https://github.com/zulymedina-prog">
+    <img src="https://github.com/zulymedina-prog.png" width="80" alt="Zuly Nicole Medina Pillaca">
   </a>
+
+  <a href="https://github.com/borisvilca">
+    <img src="https://github.com/borisvilca.png" width="80" alt="Boris David Vilca Vidal">
+  </a>
+
+  <a href="https://github.com/melissavelasquez1">
+    <img src="https://github.com/melissavelasquez1.png" width="80" alt="Melissa Lucero Velasquez Ccosi">
+  </a>
+
+  <a href="https://github.com/christiangarciaa-dev">
+    <img src="https://github.com/christiangarciaa-dev.png" width="80" alt="Christian Manfred">
+  </a>
+
+  <a href="https://github.com/marycielomontes">
+    <img src="https://github.com/marycielomontes.png" width="80" alt="Marycielo Montes Armuto">
+  </a>
+
 </p>
 
 <p align="center">
