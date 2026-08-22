@@ -46,7 +46,15 @@ Nuestro trabajo busca combinar la creatividad, el análisis y el trabajo colabor
 
 ## 🎯 Objetivo
 
-Aplicar herramientas y metodologías de innovación para identificar problemas reales, analizar sus causas y desarrollar soluciones que generen un impacto positivo en la sociedad.
+Aplicar herramientas y metodologías de innovación para identificar y analizar problemáticas reales, comprender sus causas y desarrollar soluciones creativas, viables y sostenibles mediante la aplicación de conocimientos de ingeniería y tecnología.
+
+### Objetivos específicos
+
+- 🔍 Identificar necesidades y problemáticas presentes en nuestro entorno.
+- 💡 Generar propuestas de solución mediante procesos de innovación.
+- 🛠️ Integrar conocimientos de Ingeniería Industrial e Ingeniería Informática.
+- 🌱 Promover soluciones alineadas con los Objetivos de Desarrollo Sostenible (ODS).
+- 🤝 Fortalecer el trabajo colaborativo y multidisciplinario del equipo.
 ---
 
 ## 🌱 Alineación con los ODS
@@ -67,7 +75,7 @@ Nuestro trabajo busca contribuir al cumplimiento de los Objetivos de Desarrollo 
 | Nombre | Rol Principal | Intereses / Responsabilidades |
 | :--- | :--- | :--- |
 | **Boris David Vilca Vidal** | Programador - Modelador | Análisis de datos, simulación |
-| **Melissa Lucero Velasquez Ccosi** | Líder del equipo | Programación, diseño |
+| **Melissa Lucero Velasquez Ccosi** | Líder del equipo | Coordinación, programación, diseño y seguimiento del proyecto |
 | **Zuly Nicole Medina Pillaca** | Documentación | Organización, redacción |
 | **Marycielo Montes Armuto** | Diseñadora | Creatividad, diseño gráfico |
 | **Christian Manfred** | Investigación / Desarrollo | Gestión y desarrollo |
