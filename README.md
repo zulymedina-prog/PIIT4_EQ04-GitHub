@@ -117,7 +117,6 @@ Para mantener organizado nuestro trabajo y facilitar el control de las diferente
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
 </p>
----
 
 ## 📬 Información académica 
 
