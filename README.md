@@ -112,12 +112,12 @@ Para mantener organizado nuestro trabajo y facilitar el control de las diferente
 
 ## 🛠️ Tecnologías y Herramientas
 
-Utilizamos diferentes herramientas para organizar, desarrollar y gestionar nuestro proyecto:
-
-- 🐙 **GitHub:** gestión y colaboración del repositorio.
-- 🔀 **Git:** control de versiones y seguimiento de cambios.
-- 💻 **Visual Studio Code:** edición y desarrollo de archivos.
-- 🐍 **Python:** programación y desarrollo de soluciones.
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+</p>
 ---
 
 ## 📬 Información académica 
@@ -125,7 +125,7 @@ Utilizamos diferentes herramientas para organizar, desarrollar y gestionar nuest
 - 🏫 **Universidad:** Universidad Peruana Cayetano Heredia (UPCH)
 - 📚 **Curso:** Procesos de Innovación de Ingeniería.
 - 👥 **Equipo:** Equipo 04.
-- 💻 **Repositorio:** GitHub — PIIT4_EQ04-GitHub.
+- 💻 **Repositorio:** [PIIT4_EQ04-GitHub](https://github.com/zulymedina-prog/PIIT4_EQ04-GitHub)
 ---
 
 ## ✨ Colaboradores
