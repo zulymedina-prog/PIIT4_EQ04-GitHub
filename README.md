@@ -108,7 +108,6 @@ Para mantener organizado nuestro trabajo y facilitar el control de las diferente
 │
 └── 📄 README.md          # Información general y presentación del equipo
 ```
----
 
 ## 🛠️ Tecnologías y Herramientas
 
