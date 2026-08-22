@@ -44,12 +44,12 @@ Somos el **Equipo 04** del curso de **Procesos de Innovación de Ingeniería** d
 
 Nuestro trabajo busca combinar la creatividad, el análisis y el trabajo colaborativo para generar soluciones que respondan a necesidades reales y puedan producir un impacto positivo en la sociedad.
 
-## 🎯 Objetivo
+## 🎯 Objetivo.
 
 Aplicar herramientas y metodologías de innovación para identificar problemas reales, analizar sus causas y desarrollar soluciones que generen un impacto positivo en la sociedad.
 ---
 
-## 🌱 Alineación con los ODS
+## 🌱 Alineación con los ODS.
 
 Nuestro trabajo busca contribuir al cumplimiento de los Objetivos de Desarrollo Sostenible (ODS) de la Agenda 2030, relacionando la innovación y la ingeniería con la búsqueda de soluciones que generen un impacto positivo.
 
@@ -60,7 +60,7 @@ Nuestro trabajo busca contribuir al cumplimiento de los Objetivos de Desarrollo 
 | ♻️ **ODS 12** | Fomentar el uso responsable de los recursos y prácticas sostenibles. |
 ---
 
-## 👥 Equipo Multidisciplinario
+## 👥 Equipo Multidisciplinario.
 
 💡 **Enfoque colaborativo:** *Integramos nuestras habilidades y conocimientos para trabajar de manera organizada y desarrollar propuestas innovadoras.*
 
