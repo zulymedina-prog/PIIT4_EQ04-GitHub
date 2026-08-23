@@ -75,7 +75,7 @@ Nuestro trabajo busca contribuir al cumplimiento de los Objetivos de Desarrollo 
 | Nombre | Rol Principal | Intereses / Responsabilidades |
 | :--- | :--- | :--- |
 | **Boris David Vilca Vidal** | Programador - Modelador | Análisis de datos, simulación |
-| **Melissa Lucero Velasquez Ccosi** | Líder del equipo | Programación, diseño |
+| **Melissa Lucero Velasquez Ccosi** | Líder del equipo | Liderazgo, optimización |
 | **Zuly Nicole Medina Pillaca** | Documentación | Organización, redacción |
 | **Marycielo Montes Armuto** | Diseñadora | Creatividad, diseño gráfico |
 | **Christian Manfred** | Investigación / Desarrollo | Gestión y desarrollo |
